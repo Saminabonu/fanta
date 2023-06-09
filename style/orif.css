@@ -1,0 +1,40 @@
+.orif_card{
+    padding-top: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 20px;
+
+}
+.orif_rasm{
+    background-image: url(../kartinka.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+
+}
+.orif_card h1{
+    font-size: 48px;
+    color: cadetblue;
+
+
+}
+.orif_card p{
+    font-size: 24px;
+    color: rgb(104, 101, 101);
+}
+.orif_card button{
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: rgb(32, 30, 30);
+    color: white;
+    border: none;
+    outline: none;
+   
+
+}
