@@ -9,3 +9,9 @@ footer{
 .footer_img > img{
     width: 100%;
 }
+footer > ul{
+    display: flex;
+}
+footer > ul > li > a{
+    font-size: 2rem;
+}
